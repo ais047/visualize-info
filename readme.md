@@ -1,4 +1,5 @@
 # visualize-info
+A website to help people visualize information security and computing concepts by visualizing those concepts in an easy to understand way.
 
 ## Project setup
 ```
@@ -24,6 +25,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
