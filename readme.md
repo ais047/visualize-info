@@ -1,5 +1,6 @@
 # visualize-info
 A website to help people visualize information security and computing concepts by visualizing those concepts in an easy to understand way.
+Currently Hosted on: 
 
 ## Project setup
 ```

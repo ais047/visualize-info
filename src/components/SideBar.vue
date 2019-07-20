@@ -13,7 +13,7 @@
          Encryption
         </vs-sidebar-item>
         <vs-sidebar-group title="Computing Concepts">
-          <vs-sidebar-item index="2.1" icon="store">
+          <vs-sidebar-item :to='"bits"' index="2.1" icon="store">
             Bits
           </vs-sidebar-item>
           <vs-sidebar-item index="2.2" icon="nature_people">
