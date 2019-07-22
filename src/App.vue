@@ -8,13 +8,11 @@
 
 <script>
 import SideBar from './components/SideBar.vue'
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'app',
   components: {
-    SideBar,
-    HelloWorld
+    SideBar
   },
   data: () => ({
     active: true

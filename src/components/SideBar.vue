@@ -1,7 +1,7 @@
 <template>
   <div class="sidebar">
     <div>
-    <vs-sidebar reduce="reduce" v-model="active">
+    <vs-sidebar reduce="reduce" v-model="active" hidden-background="hidden">
       <div class="header-sidebar" slot="header">
         <vs-avatar  size="70px" src="https://randomuser.me/api/portraits/men/85.jpg"/>
       </div>
@@ -45,10 +45,12 @@
 export default {
   name: 'SideBar',
   data: () => ({
-    active:true
+    active:true,
+    hidden: true
   })
 }
 </script>
 
 <style scoped>
+
 </style>
